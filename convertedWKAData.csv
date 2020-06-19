@@ -1,11 +1,14 @@
-Kiel	Kiel	0001 - WKA 1 Nordex N131	3000 kW Nennleist. Rotor.	134	131	54.26586253107551	10.099418334401857	im Gen.Verf.
-Kiel	Kiel	0002 - WKA 2 Nordex N131	3000 kW Nennleist. Rotor.	134	131	54.26426301211265	10.107236988154018	im Gen.Verf.
-Kiel	Kiel	0003 - WKA 3 Nordex N131	3000 kW Nennleist. Rotor.	134	131	54.26526064240438	10.113098368474692	im Gen.Verf.
-Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	53.859844	10.668950	vor Inbetriebnahme
-Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	53.859714	10.669219	vor Inbetriebnahme
-Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	53.860755	10.669274	in Betrieb
-Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	53.860179	10.670502	in Betrieb
-Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	53.860248	10.668506	im Gen.Verf.
+Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	51.74399414404468	13.983763200843065	im Gen.Verf.
+Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	51.74539806017212	13.981221565398258	im Gen.Verf.
+Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	51.7445085906872	13.981398941089003	im Gen.Verf.
+Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	53.86038604903447	10.668647015110952	im Gen.Verf.
+Test	AR	Test-AR-Nah	3000 kW Nennleist. Rotor.	134	131	51.74317673369239	13.980338811864138	im Gen.Verf.
+Test	AR	Test-AR-Mittel	3000 kW Nennleist. Rotor.	134	131	51.74361663378812	13.980575760171375	im Gen.Verf.
+Test	AR	Test-AR-Fern	3000 kW Nennleist. Rotor.	134	131	51.7436696931935	13.982292229366609	im Gen.Verf.
+Test	AR	Test-AR-Konstantin	3000 kW Nennleist. Rotor.	134	131	51.74321633601954	13.979618345842924	im Gen.Verf.
+Test	AR	Test-AR-Konstantin	3000 kW Nennleist. Rotor.	134	131	51.74324542403204	13.979781014717371	im Gen.Verf.
+Test	AR	Test-AR-Konstantin	3000 kW Nennleist. Rotor.	134	131	53.85990480715905	10.668992821004741	im Gen.Verf.
+Test	AR	Test-AR-Konstantin	3000 kW Nennleist. Rotor.	134	131	53.86112804635429	10.66829637009101	im Gen.Verf.
 Lübeck	Lübeck	0001 - WKA - Ivendorf	2300 kW Nennleist. Rotor.	85	82	53.94436418563233	10.825546071799073	in Betrieb
 Lübeck	Lübeck	0002 - WKA - Pöppendorf	2300 kW Nennleist. Rotor.	85	82	53.936450235742925	10.825170024149475	in Betrieb
 Lübeck	Lübeck	0001 - WKA - Bültwisch	600 kW Nennleist. Rotor.	50	43	53.93246432853184	10.840716886774626	in Betrieb
